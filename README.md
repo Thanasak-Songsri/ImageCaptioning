@@ -1,3 +1,5 @@
 # ImageCaptioning
 
-I want to pass a image to model and describe the image 
+I take model from hugging face website for using finetune 
+and technical freezing model with decoder layer of model 
+
